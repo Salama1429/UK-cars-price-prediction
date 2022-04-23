@@ -27,3 +27,4 @@ This is a supervised, regression machine learning task: given a set of data with
 7. Evaluate the best model on the testing set
 8. Model Deployment as web application with flask
 9. Video tutorial on youtube (Link: https://youtu.be/OrtbcW8dS4k)
+10. submit kaggle notebook (Link: https://www.kaggle.com/code/mohamedsalama1429/100-000-uk-cars-ml-price-prediction-96-score)
